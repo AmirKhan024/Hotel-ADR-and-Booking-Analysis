@@ -1,0 +1,2 @@
+# Hotel ADR and Booking Analysis
+ This project analyzes hotel booking cancellation patterns across various market segments. Using data visualization techniques, it explores the distribution of cancellations among different booking channels, helping to identify high-risk segments and inform strategies to reduce cancellation rates. The analysis provides valuable insights for hotel management and revenue optimization in the hospitality industry.
